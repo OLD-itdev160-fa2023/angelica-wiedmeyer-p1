@@ -1,0 +1,12 @@
+﻿Project 1 
+
+
+Description: 
+Seeing as it’s spooky month, and that’s my favorite thing ever, I am going to make a little one page website.
+ I’m going to list and review my top 5 horror movies of all time. 
+ There will be: A pop up welcome message, an explanation, a picture (with mouseover capabilities?) for each movie and a description. 
+
+
+Feature List: 
+A welcome message - preferably in pop up? 
+Hover over images
