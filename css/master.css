@@ -34,8 +34,10 @@ h2{
 }
 
 #container img{
-    width: 275px;
-    justify-content: center;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul{
